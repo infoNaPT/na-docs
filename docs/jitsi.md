@@ -28,6 +28,8 @@ Para os moderadores de cada:
  - utilizador
  - palavra-passe
 
+E após instalarem a aplicação adequada para vós [continuar para instalar](#Instalar-apenas-para-moderadores)
+
 ---
 
 ## Instalar (*apenas para moderadores*)
