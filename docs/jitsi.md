@@ -1,6 +1,7 @@
 # Jitsi
+*atualizado a {docsify-updated}*
 
-Este programa acessível no endereço [Jitsi NA Portugal](https://meet.na-pt.org)
+Este programa está acessível no endereço [Jitsi NA Portugal](https://meet.na-pt.org)
 
 ---
 

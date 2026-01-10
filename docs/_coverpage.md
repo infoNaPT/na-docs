@@ -1,4 +1,4 @@
-![logo](media/logo.png)
+![logo](_media/logo.png)
 
 # Documentação <small>0.1</small>
 
