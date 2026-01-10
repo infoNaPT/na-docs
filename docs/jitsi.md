@@ -34,6 +34,8 @@ Para os moderadores de cada:
 
 ### Versão para computador
 
+Evidentemente escolham o ficheiro para o vosso computador ;)
+
 - [Descarregar](https://desktop.jitsi.org/Main/Download.html)
 
 ### Versão para telemóvel
@@ -54,6 +56,8 @@ Para os moderadores de cada:
 
 
 ### Aceitar participantes
+
+Os participantes, que não são moderadores, só podem entrar na reunião se os moderadores aceitarem cada um, por isso alguma atenção.
 
 ### Partilhar ficheiros ou ecrâ
 
