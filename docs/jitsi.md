@@ -28,7 +28,7 @@ Para os moderadores de cada:
  - utilizador
  - palavra-passe
 
-
+---
 
 ## Instalar (*apenas para moderadores*)
 
@@ -45,24 +45,34 @@ Evidentemente escolham o ficheiro para o vosso computador ;)
 - [IOS](https://apps.apple.com/us/app/jitsi-meet/id1165103905)
 - [Android](https://play.google.com/store/apps/details?id=org.jitsi.meet)
 
+### Configurar a aplicação para moderadores
+
+Para configurar vamos usar o endereço  
+https://meet.na-pt.org  
+nas definições, Conferência - "Servidor URL" *(ou algo semelhante)* como apresentado no vídeo de configuração da aplicação para moderadores.
+
+[youtube:A84BTy8V4Ow | Clicar para ver o vídeo - Versão computador]
+[youtube:0qJU43hn4pM | Clicar para ver o vídeo - Versão telemóvel]
+
+---
+
 ## Iniciar Reunião
 
-#### para participantes
+### para participantes
 
 [youtube:-EO9zyaghls | Clicar para ver o vídeo - Versão computador]
 
-[youtube:9KZMFNBA4hc | Clicar para ver o vídeo - Versão telemóvel]
+[youtube:zy3ROGCQ7do | Clicar para ver o vídeo - Versão telemóvel]
 
-#### para moderadores
+### para moderadores
 
 
-
-### Aceitar participantes
+#### Aceitar participantes
 
 Os participantes, que não são moderadores, só podem entrar na reunião se os moderadores aceitarem cada um, por isso alguma atenção.
 
-### Partilhar ficheiros ou ecrâ
+#### Partilhar ficheiros ou ecrâ
 
-### Criar salas (por exemplo de espera ou outras) 
+#### Criar salas (por exemplo de espera ou outras) 
 
 ## Configurações
