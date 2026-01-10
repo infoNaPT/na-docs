@@ -49,7 +49,9 @@ Evidentemente escolham o ficheiro para o vosso computador ;)
 
 #### para participantes
 
-[youtube:-EO9zyaghls | Clicar para ver o vídeo]
+[youtube:-EO9zyaghls | Clicar para ver o vídeo - Versão computador]
+
+[youtube:9KZMFNBA4hc | Clicar para ver o vídeo - Versão telemóvel]
 
 #### para moderadores
 
