@@ -1,7 +1,10 @@
 # Jitsi
 *atualizado a {docsify-updated}*
 
-Este programa está acessível no endereço [Jitsi NA Portugal](https://meet.na-pt.org)
+Jitsi Meet é um programa open-source instalado num servidor de NA Portugal e serve para:
+- fazer reuniões online *(sejam elas apenas online ou híbridas)*
+
+Este programa/serviço está disponível no endereço [meet.na-pt.org](meet.na-pt.org)
 
 ---
 
@@ -68,6 +71,11 @@ nas definições, Conferência - "Servidor URL" *(ou algo semelhante)* como apre
 
 ### para moderadores
 
+Antes de utilizarem o serviço devem ter dados de acesso, pedidos à Comissão de Informática de NA Portugal atravês de email como descrito no início desta página.
+
+[youtube:VvFiEkZwWHM | Clicar para ver o vídeo - Versão computador]
+[youtube:0qJU43hn4pM | Clicar para ver o vídeo - Versão telemóvel]
+
 
 #### Aceitar participantes
 
@@ -78,3 +86,11 @@ Os participantes, que não são moderadores, só podem entrar na reunião se os 
 #### Criar salas (por exemplo de espera ou outras) 
 
 ## Configurações
+
+## Curiosidades
+
+> *é uma alternativa ao zoom, ao teams e outros...*  
+> *fica mais barato, apenas um servidor para toda a região Portuguesa, ao preço entre 1 ou 2 subscrições de Zoom para se ter ideia (neste momento custa 2/3 de 1 subscrição mas será mais concerteza...  
+> e não tem que se marcar disponibilidade, apenas... se utiliza...  
+> se pensarmos quantas subscrições existem na região rapidamente se percebe que se trata de uma poupança extremamente significativa :)*
+
