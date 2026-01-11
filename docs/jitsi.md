@@ -74,7 +74,7 @@ nas definições, Conferência - "Servidor URL" *(ou algo semelhante)* como apre
 Antes de utilizarem o serviço devem ter dados de acesso, pedidos à Comissão de Informática de NA Portugal atravês de email como descrito no início desta página.
 
 [youtube:VvFiEkZwWHM | Clicar para ver o vídeo - Versão computador]
-[youtube:0qJU43hn4pM | Clicar para ver o vídeo - Versão telemóvel]
+[youtube:ODQVpE8bERc | Clicar para ver o vídeo - Versão telemóvel]
 
 
 #### Aceitar participantes
