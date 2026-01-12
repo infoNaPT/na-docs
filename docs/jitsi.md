@@ -15,8 +15,19 @@ Para os participantes de cada reunião online:
 - apenas usam o endereço da vossa reunião
   - exemplo: https://meet.na-pt.org/qualquercoisa (sendo _qualquercoisa_ o nome da reunião que irão frequentar)
 
+## Iniciar Reunião
+
+### para participantes
+
+[youtube:-EO9zyaghls | Clicar para ver o vídeo - Versão computador]
+
+[youtube:zy3ROGCQ7do | Clicar para ver o vídeo - Versão telemóvel]
+
+> Para participantes podem ficar por aqui pois não é preciso mais nada.
+
 ---
 
+## para moderadores apenas
 Para os moderadores de cada:
 
 - reunião
@@ -35,22 +46,22 @@ E após instalarem a aplicação adequada para vós [continuar para instalar](#I
 
 ---
 
-## Instalar (*apenas para moderadores*)
+### Instalar (*apenas para moderadores*)
 
-### Versão para computador
+#### Versão para computador
 
 Evidentemente escolham o ficheiro para o vosso computador ;)
 
 - [Descarregar](https://desktop.jitsi.org/Main/Download.html)
 
-### Versão para telemóvel
+#### Versão para telemóvel
 
 *Descarregar*
 
 - [IOS](https://apps.apple.com/us/app/jitsi-meet/id1165103905)
 - [Android](https://play.google.com/store/apps/details?id=org.jitsi.meet)
 
-### Configurar a aplicação para moderadores
+#### Configurar a aplicação para moderadores
 
 Para configurar vamos usar o endereço  
 https://meet.na-pt.org  
@@ -61,15 +72,7 @@ nas definições, Conferência - "Servidor URL" *(ou algo semelhante)* como apre
 
 ---
 
-## Iniciar Reunião
-
-### para participantes
-
-[youtube:-EO9zyaghls | Clicar para ver o vídeo - Versão computador]
-
-[youtube:zy3ROGCQ7do | Clicar para ver o vídeo - Versão telemóvel]
-
-### para moderadores
+### Iniciar a reunião *(para moderadores)*
 
 Antes de utilizarem o serviço devem ter dados de acesso, pedidos à Comissão de Informática de NA Portugal atravês de email como descrito no início desta página.
 
@@ -85,7 +88,7 @@ Os participantes, que não são moderadores, só podem entrar na reunião se os 
 
 #### Criar salas (por exemplo de espera ou outras) 
 
-## Configurações
+## outras Configurações
 
 ## Curiosidades
 
