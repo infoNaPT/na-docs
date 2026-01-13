@@ -95,7 +95,7 @@ Os participantes, que não são moderadores, só podem entrar na reunião se os 
 
 #### Partilhar ficheiros ou ecrâ
 
-Para partilhar ficheiros no ecrâ **sugiro utilizarem apenas no computador, por enquanto** *(está a ser resolvido um pequeno problema para partilhar a partir de telemóveis...)*
+> Para partilhar ficheiros no ecrâ **sugiro utilizarem apenas no computador, por enquanto** *(está a ser resolvido um pequeno problema para partilhar a partir de telemóveis...)*
 
 [youtube:scqlPy6hAgc   | Clicar para ver o vídeo - Versão computador]
 
