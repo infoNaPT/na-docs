@@ -20,8 +20,13 @@ Para os participantes de cada reunião online:
 ### para participantes
 
 [youtube:-EO9zyaghls | Clicar para ver o vídeo - Versão computador]
-
 [youtube:zy3ROGCQ7do | Clicar para ver o vídeo - Versão telemóvel]
+
+
+#### Pedir a vez para falar... mão no ar... 
+
+[youtube:j3M4l1vEOmw | Clicar para ver o vídeo - Versão computador]
+[youtube:q_e8Pf_Mx9U | Clicar para ver o vídeo - Versão telemóvel]
 
 > Para participantes podem ficar por aqui pois não é preciso mais nada.
 
