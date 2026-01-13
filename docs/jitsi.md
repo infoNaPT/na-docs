@@ -84,9 +84,23 @@ Antes de utilizarem o serviço devem ter dados de acesso, pedidos à Comissão d
 
 Os participantes, que não são moderadores, só podem entrar na reunião se os moderadores aceitarem cada um, por isso alguma atenção.
 
+[youtube:gj9FwBLM45M  | Clicar para ver o vídeo - Versão computador]
+[youtube:OEar1BZhmTo  | Clicar para ver o vídeo - Versão telemóvel]
+
+
 #### Partilhar ficheiros ou ecrâ
 
+Para partilhar ficheiros no ecrâ **sugiro utilizarem apenas no computador, por enquanto** *(está a ser resolvido um pequeno problema para partilhar a partir de telemóveis...)*
+
+[youtube:scqlPy6hAgc   | Clicar para ver o vídeo - Versão computador]
+
+
 #### Criar salas (por exemplo de espera ou outras) 
+
+Quando têm votações, ou grupos de trabalho, podem criar mais salas dentro da reunião.
+
+[youtube:5qupePBZeMo  | Clicar para ver o vídeo - Versão computador]
+
 
 ## outras Configurações
 
