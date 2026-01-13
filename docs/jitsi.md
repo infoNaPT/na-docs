@@ -29,7 +29,7 @@ Para os participantes de cada reunião online:
 [youtube:q_e8Pf_Mx9U | Clicar para ver o vídeo - Versão telemóvel]
 
 > Para participantes podem ficar por aqui pois não é preciso mais nada.
-
+  
 ---
 
 ## para moderadores apenas
