@@ -100,7 +100,7 @@ Para partilhar ficheiros no ecrâ **sugiro utilizarem apenas no computador, por 
 Quando têm votações, ou grupos de trabalho, podem criar mais salas dentro da reunião.
 
 [youtube:5qupePBZeMo  | Clicar para ver o vídeo - Versão computador]
-
+[youtube:3xy0Amg1EkU  | Clicar para ver o vídeo - Versão telemóvel]
 
 ## outras Configurações
 
