@@ -57,7 +57,7 @@ E após instalarem a aplicação adequada para vós [continuar para instalar](#I
 
 Evidentemente escolham o ficheiro para o vosso computador ;)
 
-- [Descarregar](https://desktop.jitsi.org/Main/Download.html)
+- [Descarregar](https://github.com/jitsi/jitsi-meet-electron#installation)
 
 #### Versão para telemóvel
 
