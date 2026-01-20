@@ -42,10 +42,14 @@ Para os moderadores de cada:
 - RPHI
 - outras
 
-> devem enviar um email para a informática NA Portugal - [clica aqui para enviar](mailto:informatica@na-pt.org)
+> devem enviar um email para os secretários do CSRP - [clica aqui para enviar](mailto:csrp.secretario@gmail.com)
 > para obterem:
  - utilizador
  - palavra-passe
+
+> IMPORTANTE: o acesso de moderadores funciona para qualquer reunião no servidor, ou seja, um moderador pode entrar numa reunião que não é a que ficou destinado como moderador.
+> Com isto, obviamente, com o cuidado do utilizador/moderador de apenas se autenticar nas reuniões da sua comissão e nas outras reuniões deve entrar como participante, naturalmente.
+> Se acontecer o contrário avisem a subcomissão de Informática da APNA para que possamos sensibilizar ou retirar o acesso em questão.
 
 E após instalarem a aplicação adequada para vós [continuar para instalar](#Instalar-apenas-para-moderadores)
 
